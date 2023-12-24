@@ -22,6 +22,6 @@ This project is the result of my first attempt at creating a Figma mockup using 
 
 ## Author
 
-N-Nilashan-1
+N-Nilashan
 
 
