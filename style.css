@@ -1,0 +1,269 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background: #fff8f0;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    color: #55206D;
+}
+
+#main-heading {
+    font-family: "League Spartan", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #190D37;
+    margin-top: 11px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: "League Spartan", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #000000;
+}
+
+.bigtext {
+    color: #331E6A;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#hero-section {
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    margin: 0 auto 48px auto;
+}
+
+#hero-text {
+    padding: 32px 20px 32px 20px;
+    max-width: 520px;
+}
+
+#hi-and-name {
+    margin-top: 52px;
+}
+
+#main-heading .and {
+    font-weight: 400;
+
+}
+
+.smalltext {
+    font-family: "inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    color: #000000;
+}
+
+.bigtext {
+    color: #190D37;
+    max-width: 520px;
+    height: 81px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-bottom: 20px;
+}
+
+
+#contact-button {
+    width: 138px;
+    height: 44px;
+    border-radius: 4px;
+    background-color: #2F2F2F;
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    margin-top: 20px;
+}
+
+.pricing-text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 1000;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #2858FF;
+    margin-bottom: 8px;
+}
+
+
+
+#pricing-section {
+    max-width: 1060px;
+    margin: 0 auto;
+    margin: 0 auto;
+    margin-top: 96px;
+}
+
+.section-heading {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.sub-text {
+    width: 686px;
+    height: 81px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 8px auto 48px auto;
+    color: #190D37;
+    max-width: 686px;
+
+}
+
+#pricing-boxes {
+    display: flex;
+}
+
+.pricing-box {
+    width: 33.33%;
+    margin-top: 48px;
+    margin-bottom: 48px;
+
+
+}
+
+.pricing-card {
+    background-color: white;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    padding: 20px;
+}
+
+.service {
+    color: #2858FF;
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 21px;
+    width: 85px;
+    height: 21px;
+
+
+}
+
+.price {
+    color: #000000;
+    height: 54px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.price-per-page {
+    color: #8A8A8A;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.service-details {
+    color: #8B8B8B;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    width: 250px;
+    height: 46px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.custom-list {
+    list-style: none;
+    padding: 0;
+}
+
+.custom-list li {
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 8px;
+}
+
+.custom-list li::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    background: url('img/Frame.svg') no-repeat center center;
+    background-size: cover;
+    margin-right: 10px;
+}
+
+.contact-me {
+    border: 2px solid #2F2F2F;
+    width: 100%;
+    width: 300px;
+    height: 44px;
+    border-radius: 4px;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    background-color: white;
+}
+
+.custom-pricing-card {
+    background-color: #FFD748;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    padding: 20px;
+}
+
+.custom-contact-me {
+    background-color: black;
+    border: 2px solid #000000;
+    width: 100%;
+
+    height: 44px;
+    border-radius: 4px;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    color: white;
+}
+
+#footer {
+    background-color: #000000;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1440px;
+    height: 58px;
+    margin: 0 auto;
+    margin: 0 auto;
+    margin-top: 116px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+}
