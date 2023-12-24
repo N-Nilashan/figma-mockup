@@ -15,10 +15,6 @@ This project is the result of my first attempt at creating a Figma mockup using 
 - **Initial Learning Curve:** Grasping Figma and translating design to code was a learning curve.
 - **Style Implementation:** Experimenting with various styles presented challenges but facilitated learning.
 
-## How to Run
-
-1. Clone the repository: `git clone [repository_url]`
-2. Open the `index.html` file in your preferred browser.
 
 ## Acknowledgments
 
@@ -26,8 +22,6 @@ This project is the result of my first attempt at creating a Figma mockup using 
 
 ## Author
 
-[Your Name]
+N-Nilashan-1
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
